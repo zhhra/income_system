@@ -1,4 +1,4 @@
-# income_system
+# income system
 
 This system computes staff's incomes.
 
@@ -8,7 +8,7 @@ Each staff's daily income is computed based on two parts:
 So the daily income for each staff would be the summation of mentioned parts above.
 
 
-# project_setup
+# project setup
 
 1. Update set_env_variables.sh file with the correct values.
 2. Run set_env_variables.sh file
