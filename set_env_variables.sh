@@ -1,6 +1,6 @@
 #!/bin/bash
 
-export DB_NAME=income_system
+export DB_NAME=""
 export DB_USER=""
 export DB_PASSWORD=""
 export DB_HOST=""
